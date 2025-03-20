@@ -18,9 +18,9 @@ Los archivistas desempeñamos un papel vital en la conexión de las comunidades 
 
 # Casos de Estudio para la Investigación en Humanidades Digitales (Curso 2024-25)
 
-## Descripción y Justificación del Curso
+## Descripción y Justificación del Módulo
 
-Este curso profundiza en los desafíos y oportunidades críticos presentados por la investigación en humanidades digitales, particularmente en el ámbito de la archivística audiovisual y la gestión de contenidos. Basándonos en mi amplia experiencia como documentalista y arquitecto de IBM especializado en la digitalización, preservación y explotación de archivos audiovisuales (incluidos proyectos notables con el archivo histórico de la BBC y el fondo documental de RTVE, exploraremos el panorama en evolución de la práctica archivística.
+Este módulo profundiza en los desafíos y oportunidades críticos presentados por la investigación en humanidades digitales, particularmente en el ámbito de la archivística audiovisual y la gestión de contenidos. Basándonos en mi amplia experiencia como documentalista y arquitecto de IBM especializado en la digitalización, preservación y explotación de archivos audiovisuales (incluidos proyectos notables con el archivo histórico de la BBC y el fondo documental de RTVE, exploraremos el panorama en evolución de la práctica archivística.
 
 Mi experiencia se extiende a la participación activa en la investigación y el desarrollo de aplicaciones de Big Data/IA de IBM para el análisis de contenido audiovisual, así como al compromiso con comunidades archivísticas internacionales (miembro de FIAT/IFTA) centradas en el intercambio de conocimientos, el establecimiento de estándares y las mejores prácticas en la gestión de colecciones audiovisuales. La participación académica reciente incluye contribuciones a la Escuela de Periodismo de Cardiff en Gales.
 
@@ -28,7 +28,7 @@ Una premisa fundamental de este curso es la necesidad urgente de implementar pro
 
 ## Resumen del Contenido del Curso
 
-Este curso cubrirá las siguientes áreas clave:
+Este módulo cubrirá las siguientes áreas clave:
 
 * **Gestión de Contenido Audiovisual: Antes y Después de la Digitalización:** Examinaremos la transformación de la gestión de contenido audiovisual, centrándonos en el almacenamiento, el acceso y el desarrollo de herramientas para el análisis de contenido.
 * **Fundamentos de la Digitalización:** Exploración de los objetivos principales de la digitalización:
@@ -56,7 +56,7 @@ Este curso cubrirá las siguientes áreas clave:
 
 ## Objetivos de Aprendizaje
 
-Al finalizar este curso, los participantes podrán:
+Al finalizar este módulo, los estudiantes podrán:
 
 * Comprender el papel cambiante del archivista en la era digital.
 * Aplicar los principios de digitalización para un almacenamiento, preservación y acceso eficaces.
@@ -66,7 +66,7 @@ Al finalizar este curso, los participantes podrán:
 * Aplicar herramientas de IA y aprendizaje automático para el análisis audiovisual.
 * Evaluar críticamente las implicaciones éticas de la archivística digital y las aplicaciones de la IA.
 
-Este curso tiene como objetivo capacitar a los participantes para contribuir a la preservación y accesibilidad de nuestro patrimonio cultural frente al rápido cambio tecnológico.
+Este módulo tiene como objetivo capacitar a los participantes para contribuir a la preservación y accesibilidad de nuestro patrimonio cultural frente al rápido cambio tecnológico.
 
 --
 
