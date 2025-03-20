@@ -1,6 +1,10 @@
 ### Casos de Estudio para la Investigación en Humanidades Digitales (Curso 2024-25) | Case Studies for Digital Humanities Research (Course 2024-25) @ Universidad Pablo de Olavide, Sevilla
 
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15056760.svg)](https://doi.org/10.5281/zenodo.15056760)
+
+
 Resumen:
 
 El siglo XXI exige una reconfiguración del papel del archivista. Debemos trascender las nociones tradicionales de preservación y adoptar un enfoque más dinámico y comprometido. Esto implica navegar por las complejidades de la efimeridad digital, adoptar un enfoque crítico de la información y fomentar asociaciones colaborativas con las comunidades. Al asumir estos desafíos, los archivistas desempeñan un papel crucial en la salvaguarda de nuestra memoria colectiva, asegurando que las generaciones futuras tengan acceso a una comprensión integral y precisa del pasado. El archivista ya no es un guardián pasivo, sino un participante activo en la construcción de la verdad histórica.
