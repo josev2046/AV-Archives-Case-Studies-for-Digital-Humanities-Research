@@ -1,3 +1,5 @@
+Casos de Estudio para la Investigación en Humanidades Digitales (Curso 2024-25) 
+
 Resumen:
 
 El siglo XXI exige una reconfiguración del papel del archivista. Debemos trascender las nociones tradicionales de preservación y adoptar un enfoque más dinámico y comprometido. Esto implica navegar por las complejidades de la efimeridad digital, adoptar un enfoque crítico de la información y fomentar asociaciones colaborativas con las comunidades. Al asumir estos desafíos, los archivistas desempeñan un papel crucial en la salvaguarda de nuestra memoria colectiva, asegurando que las generaciones futuras tengan acceso a una comprensión integral y precisa del pasado. El archivista ya no es un guardián pasivo, sino un participante activo en la construcción de la verdad histórica.
@@ -14,16 +16,34 @@ Los archivistas desempeñamos un papel vital en la conexión de las comunidades 
 
 --
 
-Abstract: 
-The 21st century demands a reimagining of the archivist's role. We must move beyond traditional notions of preservation and embrace a more dynamic and engaged approach. This involves navigating the complexities of digital ephemerality, adopting a critical approach to information, and fostering collaborative partnerships with communities. By embracing these challenges, archivists can play a crucial role in safeguarding our collective memory and ensuring that future generations have access to a comprehensive and accurate understanding of the past. The archivist is no longer a passive guardian, but more than ever an active participant in the construction of historical truth.
+# Case Studies for Digital Humanities Research (Course 2024-25)
 
---
+**Abstract:**
 
-The 21st century has fundamentally reshaped the landscape of archival practice. We are no longer merely custodians of tangible artefacts, but navigators of a complex information ecosystem where truth is contested and digital ephemerality reigns. The traditional role of the archivist, focused on preservation and access, must evolve to encompass critical analysis, ethical engagement, and the nuanced contextualisation of both analogue and digital records. The proliferation of digital technologies has created a paradox: an abundance of information coupled with its inherent fragility. Unlike the physical degradation of analogue media, digital records can vanish instantaneously, be altered without trace, or be deliberately manipulated to serve specific agendas. This presents a significant challenge for archivists tasked with preserving a comprehensive and accurate historical record. Social media posts, ephemeral messaging apps, and dynamic web content require innovative capture and preservation strategies. Archivists must develop methods for archiving these transient forms of communication while maintaining their integrity and context. Verifying the authenticity of digital records is crucial. Blockchain technology, digital signatures, and metadata analysis are emerging tools for establishing provenance and combating manipulation.
+The 21st century demands a reconfiguration of the archivist's role. We must move beyond traditional notions of preservation and embrace a more dynamic and engaged approach. This entails navigating the complexities of digital ephemerality, adopting a critical approach to information, and fostering collaborative partnerships with communities. By embracing these challenges, archivists play a crucial role in safeguarding our collective memory, ensuring that future generations have access to a comprehensive and accurate understanding of the past. The archivist is no longer a passive guardian, but an active participant in the construction of historical truth.
 
-Notably, the digital footprint of techno-fascist groups (and govenments) poses a unique challenge. These records are often intentionally designed to spread rapidly and then disappear, or meticulously curated to present a distorted reality. This challenge is further exacerbated by recent events, such as the dismissal of Colleen J. Shogan, the Archivist of the United States, following President Trump's past disputes with the National Archives over classified documents. This raises serious concerns about the potential politicisation of record-keeping, compounding the difficulties of maintaining an accurate historical record in the face of digital manipulation. Archivists must develop critical methodologies to contextualise and analyse these records, distinguishing between manipulated narratives and authentic expressions of dissent.
+---
+
+**Introduction:**
+
+The 21st century has fundamentally transformed the landscape of archival practice. We are no longer merely custodians of tangible artefacts, but navigators of a complex information ecosystem where truth is contested, and digital ephemerality reigns. This shift necessitates a re-evaluation of the traditional archivist's role, which must evolve beyond mere preservation and access to encompass critical analysis, ethical engagement, and the nuanced contextualisation of both analogue and digital records.
+
+**The Paradox of Digital Abundance:**
+
+The proliferation of digital technologies has created a paradox: an abundance of information coupled with its inherent fragility. Unlike the physical degradation of analogue media, digital records can vanish instantaneously, be altered without trace, or be deliberately manipulated to serve specific agendas. This presents a significant challenge for archivists tasked with preserving a comprehensive and accurate historical record. Social media posts, ephemeral messaging apps, and dynamic web content require innovative capture and preservation strategies. Archivists must develop methods for archiving these transient forms of communication while maintaining their integrity and context. Verifying the authenticity of digital records is crucial. Blockchain technology, digital signatures, and metadata analysis are emerging tools for establishing provenance and combating manipulation.
+
+**The Challenge of Techno-Fascist Narratives:**
+
+In particular, the digital footprint of techno-fascist groups (and governments) poses a unique challenge. These records are often intentionally designed to spread rapidly and then disappear, or meticulously curated to present a distorted reality. This challenge is further exacerbated by recent events, such as the dismissal of Colleen J. Shogan, the Archivist of the United States, following President Trump's past disputes with the National Archives over classified documents. This raises serious concerns about the potential politicisation of record-keeping, compounding the difficulties of maintaining an accurate historical record in the face of digital manipulation. Archivists must develop critical methodologies to contextualise and analyse these records, distinguishing between manipulated narratives and authentic expressions of dissent.
+
+**Critical Engagement in the Era of "Fake News":**
 
 In an era of "fake news" and manipulated narratives, archivists must adopt a critical approach to information. This involves providing comprehensive contextual information for all records, including metadata, provenance, and historical background. This is crucial for enabling users to critically evaluate the information they encounter. Developing frameworks for evaluating the reliability and bias of information sources, particularly in the digital realm, is also essential. This includes understanding the algorithms and platforms that shape information dissemination. Furthermore, archivists must navigate the ethical complexities of preserving and providing access to potentially harmful or controversial materials. This requires careful consideration of privacy, security, and the potential for misuse.
 
+**Community Engagement and Access:**
+
 Archivists play a vital role in connecting communities with their history. This involves engaging with social collectives, individuals, and community organisations to document and preserve their histories. This requires building trust and fostering collaborative partnerships. Promoting digital literacy and critical thinking skills among users, empowering them to navigate the complexities of the digital information landscape, is equally important. Ensuring that archival materials are accessible to a wide range of users, including researchers, educators, and the general public, requires developing user-friendly interfaces and promoting open access principles.
 
+**Conclusion:**
+
+The 21st century demands a fundamental reimagining of the archivist's role. We must move beyond traditional notions of preservation and embrace a more dynamic and engaged approach. This entails navigating the complexities of digital ephemerality, adopting a critical approach to information, and fostering collaborative partnerships with communities. By embracing these challenges, archivists play a crucial role in safeguarding our collective memory, ensuring that future generations have access to a comprehensive and accurate understanding of the past. The archivist is no longer a passive guardian, but an active participant in the construction of historical truth.
