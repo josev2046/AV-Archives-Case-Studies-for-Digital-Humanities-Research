@@ -16,9 +16,9 @@ Los archivistas desempeñamos un papel vital en la conexión de las comunidades 
 
 --
 
-# Casos de Estudio para la Investigación en Humanidades Digitales (Curso 2024-25)
+Casos de Estudio para la Investigación en Humanidades Digitales (Curso 2024-25)
 
-## Descripción y Justificación del Módulo
+### Descripción y Justificación del Módulo
 
 Este módulo profundiza en los desafíos y oportunidades críticos presentados por la investigación en humanidades digitales, particularmente en el ámbito de la archivística audiovisual y la gestión de contenidos. Basándonos en mi amplia experiencia como documentalista y arquitecto de IBM especializado en la digitalización, preservación y explotación de archivos audiovisuales (incluidos proyectos notables con el archivo histórico de la BBC, exploraremos el panorama en evolución de la práctica archivística.
 
