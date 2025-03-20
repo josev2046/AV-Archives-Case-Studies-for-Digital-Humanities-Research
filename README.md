@@ -16,6 +16,60 @@ Los archivistas desempeñamos un papel vital en la conexión de las comunidades 
 
 --
 
+# Casos de Estudio para la Investigación en Humanidades Digitales (Curso 2024-25)
+
+## Descripción y Justificación del Curso
+
+Este curso profundiza en los desafíos y oportunidades críticos presentados por la investigación en humanidades digitales, particularmente en el ámbito de la archivística audiovisual y la gestión de contenidos. Basándonos en mi amplia experiencia como documentalista y arquitecto de IBM especializado en la digitalización, preservación y explotación de archivos audiovisuales (incluidos proyectos notables con el archivo histórico de la BBC y el fondo documental de RTVE, ejemplificado por programas como "Cachitos"), exploraremos el panorama en evolución de la práctica archivística.
+
+Mi experiencia se extiende a la participación activa en la investigación y el desarrollo de aplicaciones de Big Data/IA de IBM para el análisis de contenido audiovisual, así como al compromiso con comunidades archivísticas internacionales (miembro de FIAT/IFTA) centradas en el intercambio de conocimientos, el establecimiento de estándares y las mejores prácticas en la gestión de colecciones audiovisuales. La participación académica reciente incluye contribuciones a la Escuela de Periodismo de Cardiff en Gales.
+
+Una premisa fundamental de este curso es la necesidad urgente de implementar procesos sólidos para la conservación de nuestra memoria colectiva. El contenido audiovisual histórico corre un riesgo significativo debido a formatos de medios obsoletos y condiciones de almacenamiento inadecuadas. Nuestro objetivo es equipar a los participantes con los conocimientos y habilidades necesarios para abordar estos desafíos.
+
+## Resumen del Contenido del Curso
+
+Este curso cubrirá las siguientes áreas clave:
+
+* **Gestión de Contenido Audiovisual: Antes y Después de la Digitalización:** Examinaremos la transformación de la gestión de contenido audiovisual, centrándonos en el almacenamiento, el acceso y el desarrollo de herramientas para el análisis de contenido.
+* **Fundamentos de la Digitalización:** Exploración de los objetivos principales de la digitalización:
+    * **Almacenamiento:** Abordar los desafíos de preservar colecciones vastas y crecientes permitiendo un almacenamiento digital eficiente.
+    * **Preservación:** Aprovechar las tecnologías digitales para proteger los medios vulnerables y obsoletos.
+    * **Acceso:** Mejorar la accesibilidad a través de plataformas digitales, facilitando el acceso simultáneo para diversos grupos de usuarios.
+* **Más Allá de la Catalogación: Análisis Avanzado de Contenido:** Ir más allá de la catalogación tradicional hacia el análisis intensivo de contenido para la interpretación, la generación de hipótesis, la comparación de datos y la síntesis de conocimientos. Se hará hincapié en la generación de espacios para la creación de conocimiento y la transmisión de narrativas.
+* **Obsolescencia y Fragmentación de Medios:** Examinar la rápida evolución histórica de los formatos de medios y los desafíos planteados por la fragmentación de medios físicos y digitales. Los estudios de caso se basarán en recursos como el Museo de Medios Obsoletos y VIAA (Instituto Flamenco de Archivística).
+* **Flujos de Trabajo y Estándares de Preservación Digital:** Explorar los sistemas de información de archivo abierto (OAIS), los estándares de metadatos (Dublin Core, normas ISO, estándares W3C: SKOS, RDF, OWL) y las mejores prácticas para el inventario, la indexación y la creación de metadatos.
+* **IA y Aprendizaje Automático para el Análisis Audiovisual:** Centrarse en las aplicaciones prácticas de la IA en tareas tales como:
+    * Transcripción y reconocimiento de voz.
+    * Reconocimiento facial, de objetos y de logotipos.
+    * Descripción automática de imágenes y secuencias.
+    * Procesamiento del lenguaje natural y análisis semántico.
+    * Automatización de metadatos.
+    * Análisis de sentimiento.
+* **Casos de Estudio: Navegando por los Desafíos de Archivo del Mundo Real:**
+    * Esta sección profundizará en las aplicaciones prácticas de la investigación en humanidades digitales a través del análisis en profundidad de estudios de caso de instituciones prominentes. Examinaremos los enfoques adoptados por la BBC, RTVE, el British Film Institute (BFI), la Biblioteca Marx Memorial y el International Brigades Memorial Trust. Estos estudios destacarán los diversos desafíos encontrados en la archivística audiovisual, desde la gestión de medios obsoletos hasta la implementación de análisis avanzados impulsados por IA, y las soluciones innovadoras desarrolladas para abordarlos.
+    * Además, realizaremos exploraciones detalladas de los siguientes proyectos:
+        * [`https://github.com/josev2046/Preserving-Black-Audiovisual-Histories`](https://github.com/josev2046/Preserving-Black-Audiovisual-Histories): Este repositorio proporciona un examen crítico de los métodos y las consideraciones éticas involucradas en la preservación y la accesibilidad de las historias audiovisuales negras. Analizaremos las estrategias empleadas para abordar los sesgos sistémicos y garantizar una representación equitativa.
+        * [`https://github.com/josev2046/Audiovisual-Social-Memory-Archive`](https://github.com/josev2046/Audiovisual-Social-Memory-Archive): Este proyecto ofrece información valiosa sobre la creación y gestión de archivos de memoria social audiovisual. Estudiaremos las técnicas utilizadas para capturar, organizar y difundir contenido generado por la comunidad, centrándonos en el papel de los archivos en la preservación de la memoria colectiva.
+        * [`https://github.com/josev2046/Watson-Media-Enrichment-at-the-BBC-Archive`](https://github.com/josev2046/Watson-Media-Enrichment-at-the-BBC-Archive): Este repositorio demuestra la aplicación práctica de las herramientas de IBM Watson Media Enrichment dentro del archivo de la BBC. Diseccionaremos los flujos de trabajo y los algoritmos utilizados para la generación automatizada de metadatos, el análisis de contenido y las capacidades de búsqueda mejoradas.
+    * Estos estudios de caso servirán como ejemplos prácticos de los conceptos teóricos discutidos a lo largo del curso, permitiendo a los participantes obtener una comprensión más profunda de las complejidades y posibilidades dentro del campo de la investigación en humanidades digitales en la archivística audiovisual.
+* **Consideraciones Éticas en la IA:** Abordar las implicaciones éticas del uso de la IA en la práctica archivística.
+
+## Objetivos de Aprendizaje
+
+Al finalizar este curso, los participantes podrán:
+
+* Comprender el papel cambiante del archivista en la era digital.
+* Aplicar los principios de digitalización para un almacenamiento, preservación y acceso eficaces.
+* Utilizar técnicas avanzadas de análisis de contenido para materiales audiovisuales.
+* Evaluar y abordar los problemas relacionados con la obsolescencia y la fragmentación de los medios.
+* Implementar estándares de metadatos y mejores prácticas.
+* Aplicar herramientas de IA y aprendizaje automático para el análisis audiovisual.
+* Evaluar críticamente las implicaciones éticas de la archivística digital y las aplicaciones de la IA.
+
+Este curso tiene como objetivo capacitar a los participantes para contribuir a la preservación y accesibilidad de nuestro patrimonio cultural frente al rápido cambio tecnológico.
+
+--
+
 # Case Studies for Digital Humanities Research (Course 2024-25)
 
 **Abstract:**
