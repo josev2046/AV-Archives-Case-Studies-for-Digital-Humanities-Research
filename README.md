@@ -20,7 +20,7 @@ Los archivistas desempeñamos un papel vital en la conexión de las comunidades 
 
 ## Descripción y Justificación del Módulo
 
-Este módulo profundiza en los desafíos y oportunidades críticos presentados por la investigación en humanidades digitales, particularmente en el ámbito de la archivística audiovisual y la gestión de contenidos. Basándonos en mi amplia experiencia como documentalista y arquitecto de IBM especializado en la digitalización, preservación y explotación de archivos audiovisuales (incluidos proyectos notables con el archivo histórico de la BBC y el fondo documental de RTVE, exploraremos el panorama en evolución de la práctica archivística.
+Este módulo profundiza en los desafíos y oportunidades críticos presentados por la investigación en humanidades digitales, particularmente en el ámbito de la archivística audiovisual y la gestión de contenidos. Basándonos en mi amplia experiencia como documentalista y arquitecto de IBM especializado en la digitalización, preservación y explotación de archivos audiovisuales (incluidos proyectos notables con el archivo histórico de la BBC, exploraremos el panorama en evolución de la práctica archivística.
 
 Mi experiencia se extiende a la participación activa en la investigación y el desarrollo de aplicaciones de Big Data/IA de IBM para el análisis de contenido audiovisual, así como al compromiso con comunidades archivísticas internacionales (miembro de FIAT/IFTA) centradas en el intercambio de conocimientos, el establecimiento de estándares y las mejores prácticas en la gestión de colecciones audiovisuales. La participación académica reciente incluye contribuciones a la Escuela de Periodismo de Cardiff en Gales.
 
@@ -96,7 +96,7 @@ The 21st century demands a fundamental reimagining of the archivist's role. We m
 
 ## Course Description & Rationale
 
-This course delves into the critical challenges and opportunities presented by digital humanities research, particularly within the realm of audiovisual archiving and content management. Drawing upon my extensive experience as a documentalist and IBM architect specialising in digitisation, preservation, and exploitation of audiovisual archives (including notable projects with the BBC historical archive and RTVE’s documentary fund, exemplified by programs like “Cachitos”), we will explore the evolving landscape of archival practice.
+This course delves into the critical challenges and opportunities presented by digital humanities research, particularly within the realm of audiovisual archiving and content management. Drawing upon my extensive experience as a documentalist and IBM architect specialising in digitisation, preservation, and exploitation of audiovisual archives (including notable projects with the BBC historical archive), we will explore the evolving landscape of archival practice.
 
 My background extends to active participation in IBM's research and development of Big Data/AI applications for audiovisual content analysis, as well as engagement with international archival communities (FIAT/IFTA member) focusing on knowledge exchange, standards setting, and best practices in audiovisual collection management. Recent academic involvement includes contributions to the Cardiff School of Journalism in Wales.
 
