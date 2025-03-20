@@ -47,3 +47,62 @@ Archivists play a vital role in connecting communities with their history. This 
 **Conclusion:**
 
 The 21st century demands a fundamental reimagining of the archivist's role. We must move beyond traditional notions of preservation and embrace a more dynamic and engaged approach. This entails navigating the complexities of digital ephemerality, adopting a critical approach to information, and fostering collaborative partnerships with communities. By embracing these challenges, archivists play a crucial role in safeguarding our collective memory, ensuring that future generations have access to a comprehensive and accurate understanding of the past. The archivist is no longer a passive guardian, but an active participant in the construction of historical truth.
+
+# Case Studies for Digital Humanities Research (Course 2024-25)
+
+## Course Description & Rationale
+
+This course delves into the critical challenges and opportunities presented by digital humanities research, particularly within the realm of audiovisual archiving and content management. Drawing upon my extensive experience as a documentalist and IBM architect specialising in digitisation, preservation, and exploitation of audiovisual archives (including notable projects with the BBC historical archive and RTVE’s documentary fund, exemplified by programs like “Cachitos”), we will explore the evolving landscape of archival practice.
+
+My background extends to active participation in IBM's research and development of Big Data/AI applications for audiovisual content analysis, as well as engagement with international archival communities (FIAT/IFTA member) focusing on knowledge exchange, standards setting, and best practices in audiovisual collection management. Recent academic involvement includes contributions to the Cardiff School of Journalism in Wales.
+
+A core premise of this course is the urgent need to implement robust processes for the conservation of our collective memory. Historical audiovisual content is at significant risk due to obsolete media formats and inadequate storage conditions. We aim to equip participants with the knowledge and skills necessary to address these challenges.
+
+## Course Content Overview
+
+This course will cover the following key areas:
+
+* **Audiovisual Content Management: Before and After Digitisation:** We will examine the transformation of audiovisual content management, focusing on storage, access, and the development of tools for content analysis.
+* **Digitisation Fundamentals:** Exploration of the core objectives of digitisation:
+    * **Storage:** Addressing the challenges of preserving vast and growing collections by enabling efficient digital storage.
+    * **Preservation:** Leveraging digital technologies to protect vulnerable and obsolete media.
+    * **Access:** Enhancing accessibility through digital platforms, facilitating simultaneous access for diverse user groups.
+* **Beyond Cataloguing: Advanced Content Analysis:** Moving beyond traditional cataloguing towards intensive content analysis for interpretation, hypothesis generation, data comparison, and knowledge synthesis. Emphasis will be placed on generating spaces for knowledge creation and narrative transmission.
+* **Obsolescence and Media Fragmentation:** Examining the rapid historical evolution of media formats and the challenges posed by physical and digital media fragmentation. Case studies will draw upon resources such as the Museum of Obsolete Media and VIAA (Flemish Institute for Archiving).
+* **Digital Preservation Workflows and Standards:** Exploring open archival information systems (OAIS), metadata standards (Dublin Core, ISO norms, W3C standards: SKOS, RDF, OWL), and best practices for inventory, indexing, and metadata creation.
+* **AI and Machine Learning for Audiovisual Analysis:** Focusing on practical applications of AI in tasks such as:
+    * Transcription and speech recognition.
+    * Facial, object, and logo recognition.
+    * Automated image and sequence description.
+    * Natural language processing and semantic analysis.
+    * Metadata automation.
+    * Sentiment analysis.
+## Case Studies: Navigating Real-World Archival Challenges
+
+* This section will delve into practical applications of digital humanities research through in-depth analysis of case studies from prominent institutions. We will examine the approaches taken by the BBC, RTVE, the British Film Institute (BFI), the Marx Memorial Library, and the International Brigades Memorial Trust. These studies will highlight the diverse challenges encountered in audiovisual archiving, from managing obsolete media to implementing advanced AI-driven analysis, and the innovative solutions developed to address them.
+
+* Additionally, we will conduct detailed explorations of the following projects:
+
+    * [`https://github.com/josev2046/Preserving-Black-Audiovisual-Histories`](https://github.com/josev2046/Preserving-Black-Audiovisual-Histories): This repository provides a critical examination of the methods and ethical considerations involved in preserving and making accessible Black audiovisual histories. We will analyse the strategies employed to address systemic biases and ensure equitable representation.
+
+    * [`https://github.com/josev2046/Audiovisual-Social-Memory-Archive`](https://github.com/josev2046/Audiovisual-Social-Memory-Archive): This project offers valuable insights into the creation and management of audiovisual social memory archives. We will study the techniques used to capture, organise, and disseminate community-generated content, focusing on the role of archives in preserving collective memory.
+
+    * [`https://github.com/josev2046/Watson-Media-Enrichment-at-the-BBC-Archive`](https://github.com/josev2046/Watson-Media-Enrichment-at-the-BBC-Archive): This repository demonstrates the practical application of IBM Watson Media Enrichment tools within the BBC Archive. We will dissect the workflows and algorithms used for automated metadata generation, content analysis, and enhanced search capabilities.
+
+* These case studies will serve as practical examples of the theoretical concepts discussed throughout the course, allowing participants to gain a deeper understanding of the complexities and possibilities within the field of digital humanities research in audiovisual archiving.
+
+* **Ethical Considerations in AI:** Addressing the ethical implications of using AI in archival practice.
+
+## Learning Objectives
+
+Upon completion of this course, participants will be able to:
+
+* Understand the evolving role of the archivist in the digital age.
+* Apply digitisation principles for effective storage, preservation, and access.
+* Utilise advanced content analysis techniques for audiovisual materials.
+* Evaluate and address issues related to media obsolescence and fragmentation.
+* Implement metadata standards and best practices.
+* Apply AI and machine learning tools for audiovisual analysis.
+* Critically assess the ethical implications of digital archiving and AI applications.
+
+This course aims to empower participants to contribute to the preservation and accessibility of our cultural heritage in the face of rapid technological change.
