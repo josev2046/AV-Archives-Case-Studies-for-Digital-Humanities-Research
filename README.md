@@ -1,4 +1,5 @@
-### Casos de Estudio para la Investigación en Humanidades Digitales (Curso 2024-25) 
+### Casos de Estudio para la Investigación en Humanidades Digitales (Curso 2024-25) | Case Studies for Digital Humanities Research (Course 2024-25) @ Universidad Pablo de Olavide, Sevilla
+
 
 Resumen:
 
@@ -15,8 +16,6 @@ En una era de "noticias falsas" y narrativas manipuladas, los archivistas deben 
 Los archivistas desempeñamos un papel vital en la conexión de las comunidades con su historia. Esto implica interactuar con colectivos sociales, individuos y organizaciones comunitarias para documentar y preservar sus historias. Esto requiere construir confianza y fomentar asociaciones colaborativas. Promover la alfabetización digital y las habilidades de pensamiento crítico entre los usuarios, capacitándolos para navegar por las complejidades del panorama de la información digital, es igualmente importante. Garantizar que los materiales de archivo sean accesibles para una amplia gama de usuarios, incluidos investigadores, educadores y el público en general, requiere desarrollar interfaces fáciles de usar y promover principios de acceso abierto.
 
 --
-
-Casos de Estudio para la Investigación en Humanidades Digitales (Curso 2024-25)
 
 ### Descripción y Justificación del Módulo
 
