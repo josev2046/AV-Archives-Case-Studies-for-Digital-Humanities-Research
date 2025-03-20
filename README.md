@@ -1,4 +1,4 @@
-Casos de Estudio para la Investigación en Humanidades Digitales (Curso 2024-25) 
+### Casos de Estudio para la Investigación en Humanidades Digitales (Curso 2024-25) 
 
 Resumen:
 
@@ -26,7 +26,7 @@ Mi experiencia se extiende a la participación activa en la investigación y el 
 
 Una premisa fundamental de este curso es la necesidad urgente de implementar procesos sólidos para la conservación de nuestra memoria colectiva. El contenido audiovisual histórico corre un riesgo significativo debido a formatos de medios obsoletos y condiciones de almacenamiento inadecuadas. Nuestro objetivo es equipar a los participantes con los conocimientos y habilidades necesarios para abordar estos desafíos.
 
-## Resumen del Contenido del Curso
+### Resumen del Contenido del Curso
 
 Este módulo cubrirá las siguientes áreas clave:
 
@@ -54,7 +54,7 @@ Este módulo cubrirá las siguientes áreas clave:
     * Estos estudios de caso servirán como ejemplos prácticos de los conceptos teóricos discutidos a lo largo del curso, permitiendo a los participantes obtener una comprensión más profunda de las complejidades y posibilidades dentro del campo de la investigación en humanidades digitales en la archivística audiovisual.
 * **Consideraciones Éticas en la IA:** Abordar las implicaciones éticas del uso de la IA en la práctica archivística.
 
-## Objetivos de Aprendizaje
+### Objetivos de Aprendizaje
 
 Al finalizar este módulo, los estudiantes podrán:
 
@@ -70,7 +70,7 @@ Este módulo tiene como objetivo capacitar a los participantes para contribuir a
 
 --
 
-# Case Studies for Digital Humanities Research (Course 2024-25)
+### Case Studies for Digital Humanities Research (Course 2024-25)
 
 **Abstract:**
 
@@ -92,9 +92,9 @@ Archivists play a vital role in connecting communities with their history. This 
 
 The 21st century demands a fundamental reimagining of the archivist's role. We must move beyond traditional notions of preservation and embrace a more dynamic and engaged approach. This entails navigating the complexities of digital ephemerality, adopting a critical approach to information, and fostering collaborative partnerships with communities. By embracing these challenges, archivists play a crucial role in safeguarding our collective memory, ensuring that future generations have access to a comprehensive and accurate understanding of the past. The archivist is no longer a passive guardian, but an active participant in the construction of historical truth.
 
-# Case Studies for Digital Humanities Research (Course 2024-25)
+### Case Studies for Digital Humanities Research (Course 2024-25)
 
-## Course Description & Rationale
+### Course Description & Rationale
 
 This course delves into the critical challenges and opportunities presented by digital humanities research, particularly within the realm of audiovisual archiving and content management. Drawing upon my extensive experience as a documentalist and IBM architect specialising in digitisation, preservation, and exploitation of audiovisual archives (including notable projects with the BBC historical archive), we will explore the evolving landscape of archival practice.
 
@@ -102,7 +102,7 @@ My background extends to active participation in IBM's research and development 
 
 A core premise of this course is the urgent need to implement robust processes for the conservation of our collective memory. Historical audiovisual content is at significant risk due to obsolete media formats and inadequate storage conditions. We aim to equip participants with the knowledge and skills necessary to address these challenges.
 
-## Course Content Overview
+### Course Content Overview
 
 This course will cover the following key areas:
 
@@ -121,7 +121,7 @@ This course will cover the following key areas:
     * Natural language processing and semantic analysis.
     * Metadata automation.
     * Sentiment analysis.
-## Case Studies: Navigating Real-World Archival Challenges
+### Case Studies: Navigating Real-World Archival Challenges
 
 * This section will delve into practical applications of digital humanities research through in-depth analysis of case studies from prominent institutions. We will examine the approaches taken by the BBC, RTVE, the British Film Institute (BFI), the Marx Memorial Library, and the International Brigades Memorial Trust. These studies will highlight the diverse challenges encountered in audiovisual archiving, from managing obsolete media to implementing advanced AI-driven analysis, and the innovative solutions developed to address them.
 
@@ -137,7 +137,7 @@ This course will cover the following key areas:
 
 * **Ethical Considerations in AI:** Addressing the ethical implications of using AI in archival practice.
 
-## Learning Objectives
+### Learning Objectives
 
 Upon completion of this course, participants will be able to:
 
