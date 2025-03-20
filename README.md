@@ -26,7 +26,7 @@ Mi experiencia se extiende a la participación activa en la investigación y el 
 
 Una premisa fundamental de este curso es la necesidad urgente de implementar procesos sólidos para la conservación de nuestra memoria colectiva. El contenido audiovisual histórico corre un riesgo significativo debido a formatos de medios obsoletos y condiciones de almacenamiento inadecuadas. Nuestro objetivo es equipar a los participantes con los conocimientos y habilidades necesarios para abordar estos desafíos.
 
-### Resumen del Contenido del Curso
+### Contenido
 
 Este módulo cubrirá las siguientes áreas clave:
 
