@@ -27,7 +27,7 @@ Este módulo profundiza en los desafíos y oportunidades críticos presentados p
 
 Mi experiencia se extiende a la participación activa en la investigación y el desarrollo de aplicaciones de Big Data/IA de IBM para el análisis de contenido audiovisual, así como al compromiso con comunidades archivísticas internacionales (miembro de FIAT/IFTA) centradas en el intercambio de conocimientos, el establecimiento de estándares y las mejores prácticas en la gestión de colecciones audiovisuales. La participación académica reciente incluye contribuciones a la Escuela de Periodismo de Cardiff en Gales.
 
-Una premisa fundamental de este curso es la necesidad urgente de implementar procesos sólidos para la conservación de nuestra memoria colectiva. El contenido audiovisual histórico corre un riesgo significativo debido a formatos de medios obsoletos y condiciones de almacenamiento inadecuadas. Nuestro objetivo es equipar a los participantes con los conocimientos y habilidades necesarios para abordar estos desafíos.
+Una premisa fundamental de mi trabajo es la de implementar procesos sólidos para la conservación de nuestra memoria colectiva. El contenido audiovisual histórico corre un riesgo significativo debido a formatos de medios obsoletos y condiciones de almacenamiento inadecuadas. Nuestro objetivo es equipar a los participantes con los conocimientos y habilidades necesarios para abordar estos desafíos.
 
 ### Contenido
 
