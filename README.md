@@ -23,7 +23,7 @@ Los archiveros desempeñamos un papel vital en la conexión de las comunidades c
 
 ### Descripción y Justificación del Módulo
 
-Este módulo profundiza en los desafíos y oportunidades críticos presentados por la investigación en humanidades digitales, particularmente en el ámbito de la archivística audiovisual y la gestión de contenidos. Basándonos en mi amplia experiencia como documentalista y arquitecto de IBM especializado en la digitalización, preservación y explotación de archivos audiovisuales (incluidos proyectos notables con el archivo histórico de la BBC, exploraremos el panorama en evolución de la práctica archivística.
+Este módulo profundiza en los desafíos y oportunidades críticos presentados por la investigación en humanidades digitales, particularmente en el ámbito de la archivística audiovisual y la gestión de contenidos. Basándonos experiencia como documentalista y arquitecto de IBM especializado en la digitalización, preservación y explotación de archivos audiovisuales (incluidos proyectos notables con el archivo histórico de la BBC), exploraremos el panorama en evolución de la práctica archivística.
 
 Mi experiencia se extiende a la participación activa en la investigación y el desarrollo de aplicaciones de Big Data/IA de IBM para el análisis de contenido audiovisual, así como al compromiso con comunidades archivísticas internacionales (miembro de FIAT/IFTA) centradas en el intercambio de conocimientos, el establecimiento de estándares y las mejores prácticas en la gestión de colecciones audiovisuales. La participación académica reciente incluye contribuciones a la Escuela de Periodismo de Cardiff en Gales.
 
