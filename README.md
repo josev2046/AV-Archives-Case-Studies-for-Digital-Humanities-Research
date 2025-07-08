@@ -5,6 +5,10 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15056760.svg)](https://doi.org/10.5281/zenodo.15056760)
 
 
+
+https://github.com/user-attachments/assets/abaf9b58-cf04-43e1-97af-d730ed34bb4a
+
+
 Resumen:
 
 El siglo XXI exige una reconfiguración del papel del archivero. Debemos trascender las nociones tradicionales de preservación y adoptar un enfoque más dinámico y comprometido. Esto implica navegar por las complejidades de la efimeridad digital, adoptar un enfoque crítico de la información y fomentar asociaciones colaborativas con las comunidades. Al asumir estos desafíos, los archiveros desempeñamos un papel crucial en la salvaguarda de la memoria colectiva, asegurando que las generaciones futuras tengan acceso a una comprensión integral y precisa del pasado. El archivero ya no es un guardián pasivo, sino un participante activo en la construcción de la verdad histórica.
